@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["document","addEventListener","event","console","log"],"mappings":";;AAAAA,SAASC,gBAAT,CAA0B,kBAA1B,EAA8C,UAASC,KAAT,EAAgB;AAC1DC,YAAQC,GAAR,CAAY,6BAAZ;AACH,CAFD","file":"babel.js","sourcesContent":["document.addEventListener(\"DOMContentLoaded\", function(event) {\r\n    console.log(\"DOM fully loaded and parsed\");\r\n});"]}
